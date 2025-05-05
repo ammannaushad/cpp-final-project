@@ -1,1 +1,1 @@
-# cpp-final-project
+This project is called, "Creative C++ Application" where we were given a choice to create our own application. I chose to create a game with using user defined functions, arrays, strings, control structures, file handling, and error handling. I also added an ASCII art. Moreover to compile the program type in terminal, “g++ main.cpp -o finalproject" and type “./finalproject” to run it. 
